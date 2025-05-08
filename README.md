@@ -33,3 +33,12 @@ This project is a data and visualization tool for measuring the infection and im
 ```bash
 pip install pandas matplotlib seaborn plotly
 ```
+3. bash
+```jupyter notebook tracker.ipynb
+```
+4. Run the cells sequentially to load, clean, and visualize the data.
+5. To export to PDF or DOCX, use:
+```bash
+jupyter nbconvert tracker.ipynb --to markdown
+pandoc tracker.md -o tracker.docx
+```
