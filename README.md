@@ -33,7 +33,7 @@ This project is a data and visualization tool for measuring the infection and im
 ```bash
 pip install pandas matplotlib seaborn plotly
 ```
-3.
+3. Open the Jupyter Notebook:
   ```bash
 jupyter notebook tracker.ipynb
 ```
