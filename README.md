@@ -4,7 +4,7 @@ This project is a data and visualization tool for measuring the infection and im
 
 ---
 
-## ?Goas
+## Goals
 
 - To analyze and compare past worldwide COVID-19 trends
 - To graph infection, deaths, and immunization statistics per nation
